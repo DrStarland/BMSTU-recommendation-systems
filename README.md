@@ -1,1 +1,3 @@
-# BMSTU-recomendation-systems
+# BMSTU-recommendation-systems
+
+Курс, проходивший в третьем семестре магистратуры
